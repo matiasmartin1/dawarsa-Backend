@@ -11,7 +11,7 @@
     "nodemon": "^3.1.7",
     "sequelize": "^6.37.4"
   },
-  "name": "proyecto1backend",
+  "name": "dawarsa-Backend",
   "version": "1.0.0",
   "description": "backend dawarsa",
   "main": "server.js",
